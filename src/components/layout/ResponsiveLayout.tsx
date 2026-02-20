@@ -25,8 +25,8 @@ export const ResponsiveLayout = ({ children }: ResponsiveLayoutProps) => {
             <div className="flex items-center gap-2 min-w-0 flex-1">
               <div className="w-8 h-8 md:w-10 md:h-10 rounded-lg border border-primary/20 bg-white dark:bg-card p-1 flex-shrink-0 shadow-sm">
                 <img 
-                  src="/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png" 
-                  alt="Igor Queiroz Barbearia" 
+                  src="/lovable-uploads/105865227-f6ae-4901-b782-2034c0187d48.png" 
+                  alt="Nome da Barbearia" 
                   className="w-full h-full object-contain" 
                 />
               </div>
@@ -34,7 +34,7 @@ export const ResponsiveLayout = ({ children }: ResponsiveLayoutProps) => {
                 <BreadcrumbList className="text-sm">
                   <BreadcrumbItem>
                     <BreadcrumbLink href="/" className="truncate font-medium text-foreground hover:text-primary">
-                      Igor Queiroz Barbearia
+                      Nome da Barbearia
                     </BreadcrumbLink>
                   </BreadcrumbItem>
                   <BreadcrumbSeparator className="text-muted-foreground" />
