@@ -114,7 +114,7 @@ export function AppSidebar() {
           {!collapsed && <div className="flex flex-col min-w-0">
               <h2 className="text-lg font-bold leading-none text-white">Elite Gestão</h2>
               <p className="text-xs text-white/70 truncate font-medium">
-                Igor Queiroz Barbearia
+                Nome da Barbearia
               </p>
             </div>}
         </div>
